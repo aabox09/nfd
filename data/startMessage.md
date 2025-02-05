@@ -1,4 +1,4 @@
-[联系人](@kk168god)
+[联系人](https://raw.githubusercontent.com/aabox09/nfd/main/data/abc.jpg)
 
 使用方法：
 
