@@ -8,7 +8,7 @@ const fraudDb = 'https://raw.githubusercontent.com/aabox09/nfd/main/data/fraud.d
 const notificationUrl = 'https://raw.githubusercontent.com/aabox09/nfd/main/data/notification.txt'
 const startMsgUrl = 'https://raw.githubusercontent.com/LloydAsp/nfd/main/data/startMessage.md';
 
-const enable_notification = false
+const enable_notification = true
 /**
  * Return url to telegram api, optionally with parameters added
  */
