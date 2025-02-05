@@ -1,4 +1,4 @@
-Bot Created Via [机器人](@kk168god)
+[联系人](@kk168god)
 
 使用方法：
 
