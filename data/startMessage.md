@@ -1,3 +1,3 @@
 [友情提示](https://raw.githubusercontent.com/nmcvb/0123/main/ab.jpg)
-
-广告者勿扰，否则后果自负。
+恭喜发财，财源广进。
+广告勿扰，否则举报，后果自负。
