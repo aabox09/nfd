@@ -137,7 +137,7 @@ async function handleGuestMessage(message){
   if(isblocked){
     return sendMessage({
       chat_id: chatId,
-      text:'you're blocked'
+      text:'youre blocked'
     })
   }
 
